@@ -4,10 +4,9 @@
 
 Stephanie likes cats and gardening and being outside.
 
-### Day 1
+### Table of Contents
 
-I learned this cool stuff about growth mindset
-
-### Day 2
-
-I learned this about my terminal and editors. My computer is set up!
+- [Class 1](class1.md)
+- [Class 2](class2.md)
+- [Class 3](class3.md)
+- [Class 4](class4.md)
