@@ -11,4 +11,11 @@ Stephanie likes cats and gardening and being outside. She also has a fondness fo
 - [Class 3](class3.md)
 - [Class 4](class4.md)
 
-###### This is a really little headline!
+
+
+
+## Class 2: Installing all the things
+
+Here are some of my notes:
+
+- A terminal is a place where we can type instructions to the computer and not have to point and click 
